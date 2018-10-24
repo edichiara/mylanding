@@ -1,0 +1,69 @@
+body {
+  background-image: url('../images/quitnowbk.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
+}
+
+#logo {
+  width: 90px;
+}
+.my-nav {
+  opacity: 0.3;
+}
+.main h1 {
+  color: white;
+
+}
+.main p  {
+  color: white;
+  max-width: 600px;
+
+}
+
+.list {
+  margin-top: 10%;
+}
+.list ul li{
+  color: white;
+  font-style: italic;
+  font-size: 15px;
+}
+.my-btn{
+  background-color: #27892C;
+  padding: 15px 30px;
+  color: white;
+
+  /* margin-top: 70%; */
+
+}
+
+.star {
+  color: yellow;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: gray;
+  font-size: 17px;
+}
+
+.navbar-default .navbar-brand {
+  color: gray;
+}
+
+.my-p {
+  font-style: italic;
+  font-size: 20px;
+
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+    /* padding-bottom: 10%; */
+  }
+
+.h1,h1{
+  font-size: 55px;
+}
