@@ -3,14 +3,20 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  height: 80vh;
+  height: 100vh;
 }
 
 #logo {
   width: 90px;
 }
 .my-nav {
-  opacity: 0.3;
+  background-color: black;
+  border-bottom: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 0;
+
 }
 .main h1 {
   color: white;
@@ -34,6 +40,7 @@ body {
   background-color: #27892C;
   padding: 15px 30px;
   color: white;
+  font-weight: bold;
 
   /* margin-top: 70%; */
 
@@ -44,12 +51,12 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: gray;
+  color: white;
   font-size: 17px;
 }
 
 .navbar-default .navbar-brand {
-  color: gray;
+  color: white;
 }
 
 .my-p {
